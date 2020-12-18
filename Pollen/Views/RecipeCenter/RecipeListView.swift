@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import Refresh
 
 struct RecipeListView: View {
     @EnvironmentObject var store: Store

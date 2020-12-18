@@ -7,7 +7,6 @@
 //
 
 import SwiftUI
-import Refresh
 
 struct MomentList: View {
     @State private var moments: [Moment] = []

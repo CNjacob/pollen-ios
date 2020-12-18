@@ -20,15 +20,6 @@
         }
       },
       {
-        "package": "Refresh",
-        "repositoryURL": "https://github.com/CNjacob/Refresh.git",
-        "state": {
-          "branch": "master",
-          "revision": "fedba667b41685dbc04a4cc11e0245ffd3723f2c",
-          "version": null
-        }
-      },
-      {
         "package": "VideoPlayer",
         "repositoryURL": "https://github.com/wxxsw/VideoPlayer",
         "state": {

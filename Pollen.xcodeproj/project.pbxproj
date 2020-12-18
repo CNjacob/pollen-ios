@@ -8,6 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		CE061C77257A2A8800632833 /* RecipeProcess.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE061C76257A2A8800632833 /* RecipeProcess.swift */; };
+		CE0A03E9258C98AE006108FD /* HeaderKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A03E1258C98AE006108FD /* HeaderKey.swift */; };
+		CE0A03EA258C98AE006108FD /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A03E2258C98AE006108FD /* Utilities.swift */; };
+		CE0A03EB258C98AE006108FD /* FooterKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A03E3258C98AE006108FD /* FooterKey.swift */; };
+		CE0A03EC258C98AE006108FD /* Footer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A03E4258C98AE006108FD /* Footer.swift */; };
+		CE0A03ED258C98AE006108FD /* Refresh.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A03E5258C98AE006108FD /* Refresh.swift */; };
+		CE0A03EE258C98AE006108FD /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A03E6258C98AE006108FD /* Header.swift */; };
+		CE0A03EF258C98AE006108FD /* List+Refresh.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A03E7258C98AE006108FD /* List+Refresh.swift */; };
+		CE0A03F0258C98AE006108FD /* Modifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A03E8258C98AE006108FD /* Modifier.swift */; };
 		CE5EFEE8257492EB00E71017 /* LoginRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5EFEE7257492EB00E71017 /* LoginRequest.swift */; };
 		CE5EFEF22574940200E71017 /* Authorization.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5EFEEE2574940200E71017 /* Authorization.swift */; };
 		CE5EFEF92574954F00E71017 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5EFEF82574954F00E71017 /* Helpers.swift */; };
@@ -30,7 +38,6 @@
 		CE79BBFE25763A83006F003E /* RecipeParentClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79BBFD25763A83006F003E /* RecipeParentClass.swift */; };
 		CE79BC0125763A97006F003E /* RecipeSubClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79BC0025763A97006F003E /* RecipeSubClass.swift */; };
 		CE79BC04257646CE006F003E /* recipeClass.json in Resources */ = {isa = PBXBuildFile; fileRef = CE79BC03257646CE006F003E /* recipeClass.json */; };
-		CE79BC1925774394006F003E /* Refresh in Frameworks */ = {isa = PBXBuildFile; productRef = CE79BC1825774394006F003E /* Refresh */; };
 		CE79BC1C257745BB006F003E /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79BC1B257745BB006F003E /* RecipeListView.swift */; };
 		CE79BC1F257746D3006F003E /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79BC1E257746D3006F003E /* ActivityIndicator.swift */; };
 		CE79BC222577470A006F003E /* RefreshingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79BC212577470A006F003E /* RefreshingView.swift */; };
@@ -91,6 +98,14 @@
 
 /* Begin PBXFileReference section */
 		CE061C76257A2A8800632833 /* RecipeProcess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeProcess.swift; sourceTree = "<group>"; };
+		CE0A03E1258C98AE006108FD /* HeaderKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeaderKey.swift; sourceTree = "<group>"; };
+		CE0A03E2258C98AE006108FD /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		CE0A03E3258C98AE006108FD /* FooterKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FooterKey.swift; sourceTree = "<group>"; };
+		CE0A03E4258C98AE006108FD /* Footer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Footer.swift; sourceTree = "<group>"; };
+		CE0A03E5258C98AE006108FD /* Refresh.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Refresh.swift; sourceTree = "<group>"; };
+		CE0A03E6258C98AE006108FD /* Header.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
+		CE0A03E7258C98AE006108FD /* List+Refresh.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "List+Refresh.swift"; sourceTree = "<group>"; };
+		CE0A03E8258C98AE006108FD /* Modifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Modifier.swift; sourceTree = "<group>"; };
 		CE5EFEE7257492EB00E71017 /* LoginRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginRequest.swift; sourceTree = "<group>"; };
 		CE5EFEEE2574940200E71017 /* Authorization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Authorization.swift; sourceTree = "<group>"; };
 		CE5EFEF82574954F00E71017 /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
@@ -176,7 +191,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE79BC1925774394006F003E /* Refresh in Frameworks */,
 				CE63AC61257099BA0082082B /* Alamofire in Frameworks */,
 				CE88687025652FCA00C7A21A /* VideoPlayer in Frameworks */,
 			);
@@ -185,6 +199,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CE0A03E0258C98AE006108FD /* Refresh */ = {
+			isa = PBXGroup;
+			children = (
+				CE0A03E1258C98AE006108FD /* HeaderKey.swift */,
+				CE0A03E2258C98AE006108FD /* Utilities.swift */,
+				CE0A03E3258C98AE006108FD /* FooterKey.swift */,
+				CE0A03E4258C98AE006108FD /* Footer.swift */,
+				CE0A03E5258C98AE006108FD /* Refresh.swift */,
+				CE0A03E6258C98AE006108FD /* Header.swift */,
+				CE0A03E7258C98AE006108FD /* List+Refresh.swift */,
+				CE0A03E8258C98AE006108FD /* Modifier.swift */,
+			);
+			path = Refresh;
+			sourceTree = "<group>";
+		};
 		CE5EFEF72574952200E71017 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
@@ -240,6 +269,7 @@
 		CE63AC52256F85D90082082B /* Common */ = {
 			isa = PBXGroup;
 			children = (
+				CE0A03E0258C98AE006108FD /* Refresh */,
 				CE63AC53256F85F60082082B /* InputItem.swift */,
 				CE63AC57256F862C0082082B /* Seperator.swift */,
 				CE63AC5A256F865E0082082B /* ColorButton.swift */,
@@ -497,7 +527,6 @@
 			packageProductDependencies = (
 				CE88686F25652FCA00C7A21A /* VideoPlayer */,
 				CE63AC60257099BA0082082B /* Alamofire */,
-				CE79BC1825774394006F003E /* Refresh */,
 			);
 			productName = Pollen;
 			productReference = CE88681F25652B3200C7A21A /* Pollen.app */;
@@ -529,7 +558,6 @@
 			packageReferences = (
 				CE88686E25652FCA00C7A21A /* XCRemoteSwiftPackageReference "VideoPlayer" */,
 				CE63AC5F257099BA0082082B /* XCRemoteSwiftPackageReference "Alamofire" */,
-				CE79BC1725774394006F003E /* XCRemoteSwiftPackageReference "Refresh" */,
 			);
 			productRefGroup = CE88682025652B3200C7A21A /* Products */;
 			projectDirPath = "";
@@ -560,6 +588,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE0A03EF258C98AE006108FD /* List+Refresh.swift in Sources */,
 				CE63AC15256DF9320082082B /* SignUpRequest.swift in Sources */,
 				CE88685E25652CF000C7A21A /* Media.swift in Sources */,
 				CEEC30082574FA31008A238B /* AccountState.swift in Sources */,
@@ -576,12 +605,14 @@
 				CE88685D25652CF000C7A21A /* Moment.swift in Sources */,
 				CE8CE134257DD083001F8597 /* HomeCommand.swift in Sources */,
 				CE88686325652CF000C7A21A /* MomentView.swift in Sources */,
+				CE0A03EA258C98AE006108FD /* Utilities.swift in Sources */,
 				CE88686125652CF000C7A21A /* MomentRow.swift in Sources */,
 				CE63AC08256C9D500082082B /* ForgotPasswordView.swift in Sources */,
 				CE886896256B570500C7A21A /* PageControl.swift in Sources */,
 				CEEC300F2575F7AA008A238B /* APIRouter.swift in Sources */,
 				CE63AC5B256F865E0082082B /* ColorButton.swift in Sources */,
 				CE79BC1F257746D3006F003E /* ActivityIndicator.swift in Sources */,
+				CE0A03F0258C98AE006108FD /* Modifier.swift in Sources */,
 				CE79BC37257891AF006F003E /* BlurView.swift in Sources */,
 				CE8CE12A257A3BFB001F8597 /* HelpView.swift in Sources */,
 				CE5EFEE8257492EB00E71017 /* LoginRequest.swift in Sources */,
@@ -596,7 +627,10 @@
 				CEEC3013257613A9008A238B /* AccountCommand.swift in Sources */,
 				CE8807272588B50700A20097 /* Encodable++.swift in Sources */,
 				CEEC300C2575005D008A238B /* APIService.swift in Sources */,
+				CE0A03EB258C98AE006108FD /* FooterKey.swift in Sources */,
 				CE63AC24256E0C6A0082082B /* AppAction.swift in Sources */,
+				CE0A03E9258C98AE006108FD /* HeaderKey.swift in Sources */,
+				CE0A03EE258C98AE006108FD /* Header.swift in Sources */,
 				CE88689D256B576100C7A21A /* DataStore.swift in Sources */,
 				CE63AC2A256E0C870082082B /* AppError.swift in Sources */,
 				CE9A0FA4256B65EC000600E9 /* String++.swift in Sources */,
@@ -611,6 +645,7 @@
 				CE79BC482578EEF9006F003E /* RecipeCommand.swift in Sources */,
 				CE88072A2588BEAC00A20097 /* Dictionary++.swift in Sources */,
 				CE88682325652B3200C7A21A /* PollenApp.swift in Sources */,
+				CE0A03EC258C98AE006108FD /* Footer.swift in Sources */,
 				CE63ABF5256BA8630082082B /* LoginResponse.swift in Sources */,
 				CE63AC58256F862C0082082B /* Seperator.swift in Sources */,
 				CE79BC2525774728006F003E /* PullToRefreshView.swift in Sources */,
@@ -625,6 +660,7 @@
 				CE886899256B570500C7A21A /* Subview.swift in Sources */,
 				CE63AC1C256DF9540082082B /* Store.swift in Sources */,
 				CE8868A0256B576E00C7A21A /* UserDefault.swift in Sources */,
+				CE0A03ED258C98AE006108FD /* Refresh.swift in Sources */,
 				CE886898256B570500C7A21A /* OnboardingView.swift in Sources */,
 				CE5EFEF92574954F00E71017 /* Helpers.swift in Sources */,
 				CE88689A256B570500C7A21A /* PagesView.swift in Sources */,
@@ -834,14 +870,6 @@
 				minimumVersion = 5.4.0;
 			};
 		};
-		CE79BC1725774394006F003E /* XCRemoteSwiftPackageReference "Refresh" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/CNjacob/Refresh.git";
-			requirement = {
-				branch = master;
-				kind = branch;
-			};
-		};
 		CE88686E25652FCA00C7A21A /* XCRemoteSwiftPackageReference "VideoPlayer" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/wxxsw/VideoPlayer";
@@ -857,11 +885,6 @@
 			isa = XCSwiftPackageProductDependency;
 			package = CE63AC5F257099BA0082082B /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
-		};
-		CE79BC1825774394006F003E /* Refresh */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = CE79BC1725774394006F003E /* XCRemoteSwiftPackageReference "Refresh" */;
-			productName = Refresh;
 		};
 		CE88686F25652FCA00C7A21A /* VideoPlayer */ = {
 			isa = XCSwiftPackageProductDependency;
