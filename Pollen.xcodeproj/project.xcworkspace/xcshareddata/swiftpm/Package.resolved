@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "9e0328127dfb801cefe8ac53a13c0c90a7770448",
+          "version": "5.4.0"
+        }
+      },
+      {
+        "package": "GSPlayer",
+        "repositoryURL": "https://github.com/wxxsw/GSPlayer.git",
+        "state": {
+          "branch": null,
+          "revision": "95c5498ac7be1101cbe5520a2bf5536352a3b1a0",
+          "version": "0.2.18"
+        }
+      },
+      {
+        "package": "Refresh",
+        "repositoryURL": "https://github.com/CNjacob/Refresh.git",
+        "state": {
+          "branch": "master",
+          "revision": "fedba667b41685dbc04a4cc11e0245ffd3723f2c",
+          "version": null
+        }
+      },
+      {
+        "package": "VideoPlayer",
+        "repositoryURL": "https://github.com/wxxsw/VideoPlayer",
+        "state": {
+          "branch": "master",
+          "revision": "73a30d2cc0b58e9a8e063b0333022dc636b45946",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

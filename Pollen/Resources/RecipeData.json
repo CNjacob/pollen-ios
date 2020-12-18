@@ -1,0 +1,1051 @@
+[
+    {
+        "id": 13809,
+        "classid": 571,
+        "name": "中国式煎牛排",
+        "peoplenum": "3-4人",
+        "preparetime": "10分钟内",
+        "cookingtime": "10分钟内",
+        "content": "一说到煎牛排就想到西餐，西餐中的几成熟的煎牛排实在吃不惯，所以就按照自己的口味做个中国式煎牛排，不用牛排酱用了麻辣酱，美味无比呢，哈哈......",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/144533_91361.jpg",
+        "tag": "煎,午餐,强筋健骨,二人世界,白领",
+        "material": [
+            {
+                "mname": "橄榄油",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "盐",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "黑胡椒粉",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "麻辣酱",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "洋葱",
+                "type": 0,
+                "amount": "少许"
+            },
+            {
+                "mname": "牛肉",
+                "type": 1,
+                "amount": "200g"
+            },
+            {
+                "mname": "西兰花",
+                "type": 1,
+                "amount": "2朵"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": "准备好原材料",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160801/103750_56129.jpg"
+            },
+            {
+                "pcontent": "牛排切成厚片，撒上盐和黑胡椒粉，腌制十分钟",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160801/103750_76959.jpg"
+            },
+            {
+                "pcontent": "锅里放入适量水烧开，放入切成小块的西兰花焯水",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160801/103751_26675.jpg"
+            },
+            {
+                "pcontent": "坐锅烧热，倒入适量橄榄油",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160801/103752_25946.jpg"
+            },
+            {
+                "pcontent": "放入牛排煎，边煎边按压",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160801/103752_10469.jpg"
+            },
+            {
+                "pcontent": "刷上麻辣酱",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160801/103752_77585.jpg"
+            },
+            {
+                "pcontent": "装入西兰花和洋葱",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160801/103752_23235.jpg"
+            },
+            {
+                "pcontent": "简单的中国式牛排做好了",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160801/103752_56176.jpg"
+            }
+        ]
+    },
+    {
+        "id": 16743,
+        "classid": 571,
+        "name": "芒果班戟",
+        "peoplenum": "1-2人",
+        "preparetime": "10-20分钟",
+        "cookingtime": "10-20分钟",
+        "content": "前几天芒果特别的多，又非常的甜，很好吃的，上网看到很多人做芒果班戟，看外形我都喜欢的不行了，看了下材料家里也都有的，所以就试着做了一下，很简单，一点也不难，因为里面有奶油很香，我女儿特别喜欢吃的。",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/154512_43318.jpg",
+        "tag": "下午茶,甜品,白领,二人世界,甜",
+        "material": [
+            {
+                "mname": "黄油",
+                "type": 0,
+                "amount": "10g"
+            },
+            {
+                "mname": "鸡蛋",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "糖粉",
+                "type": 0,
+                "amount": "30g"
+            },
+            {
+                "mname": "芒果",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "牛奶",
+                "type": 1,
+                "amount": "120g"
+            },
+            {
+                "mname": "低筋面粉",
+                "type": 1,
+                "amount": "40g"
+            },
+            {
+                "mname": "淡奶油",
+                "type": 1,
+                "amount": "100g"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": "牛奶中倒入糖粉加入少许蛋液。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101743_69846.jpg"
+            },
+            {
+                "pcontent": "筛入低筋面粉用打蛋器搅打均匀。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101744_14454.jpg"
+            },
+            {
+                "pcontent": "黄油融化倒入面糊里，搅拌均匀。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101744_81422.jpg"
+            },
+            {
+                "pcontent": "将稀面糊过筛。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101744_12219.jpg"
+            },
+            {
+                "pcontent": "放入冰箱冷藏半个小时。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101744_51066.jpg"
+            },
+            {
+                "pcontent": "平底锅倒入少许一层油，用小火加热。倒入一大勺的面糊，摊成圆形。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101744_21780.jpg"
+            },
+            {
+                "pcontent": "小火煎到面糊凝固，不需要反面，即可把煎好的班戟皮铲起，将没有贴着平底锅的一面朝下铺好在盘中。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101744_78218.jpg"
+            },
+            {
+                "pcontent": "动物性淡奶油加入10克糖粉打发到出现花纹的状态。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101745_30447.jpg"
+            },
+            {
+                "pcontent": "芒果去皮去核只取肉切大块。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101745_73010.jpg"
+            },
+            {
+                "pcontent": "在班戟皮上放入适量奶油。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101745_47490.jpg"
+            },
+            {
+                "pcontent": "再放上几块芒果，再加入少许奶油。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101745_61497.jpg"
+            },
+            {
+                "pcontent": "把班戟皮包成四方形，将馅完全包在皮里面即可。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/101745_70768.jpg"
+            }
+        ]
+    },
+    {
+        "id": 16838,
+        "classid": 571,
+        "name": "黄金猪排咖喱饭",
+        "peoplenum": "3-4人",
+        "preparetime": "10-20分钟",
+        "cookingtime": "30分钟-1小时",
+        "content": "超好吃的黄金猪排饭有木有！颜色好看，吃起来是香酥肉嫩多汁的。淋上几勺美味浓香的咖喱，一顿饭就好了，什么肯德基，麦当劳都PK掉。家里的杜鹃花还在开着，心情不错。晒着阳光，来一份黄金咖喱猪排饭，心情大大的好哈。",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/154534_43563.jpg",
+        "tag": "咖喱饭,二人世界,炸,白领,饭",
+        "material": [
+            {
+                "mname": "咖喱",
+                "type": 0,
+                "amount": "1盒"
+            },
+            {
+                "mname": "炸猪排配料",
+                "type": 0,
+                "amount": "1袋"
+            },
+            {
+                "mname": "白胡椒粉",
+                "type": 0,
+                "amount": "5ml"
+            },
+            {
+                "mname": "料酒",
+                "type": 0,
+                "amount": "15ml"
+            },
+            {
+                "mname": "盐",
+                "type": 0,
+                "amount": "3g"
+            },
+            {
+                "mname": "油",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "猪排",
+                "type": 1,
+                "amount": "240g"
+            },
+            {
+                "mname": "洋葱",
+                "type": 1,
+                "amount": "150g"
+            },
+            {
+                "mname": "胡萝卜",
+                "type": 1,
+                "amount": "200g"
+            },
+            {
+                "mname": "土豆",
+                "type": 1,
+                "amount": "250g"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": "准备好材料。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102235_31204.jpg"
+            },
+            {
+                "pcontent": "猪排用刀背或者牛排锤敲松。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102235_44721.jpg"
+            },
+            {
+                "pcontent": "猪排里加入料酒，盐，白胡椒粉，蛋清适量。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102235_12647.jpg"
+            },
+            {
+                "pcontent": "用手抓拌几下，再加10ml的油，继续按摩抓一会猪排，让肉充分腌制2小时以上。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102236_24079.jpg"
+            },
+            {
+                "pcontent": "胡萝卜，土豆洗净去皮，洋葱都切成小丁。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102236_80066.jpg"
+            },
+            {
+                "pcontent": "锅里倒入油，烧热下入胡萝卜丁，土豆丁翻炒一会。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102236_75971.jpg"
+            },
+            {
+                "pcontent": "下入洋葱丁。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102236_53735.jpg"
+            },
+            {
+                "pcontent": "继续翻炒一会。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102236_76198.jpg"
+            },
+            {
+                "pcontent": "加入适量的开水，刚好没过蔬菜丁。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102236_44255.jpg"
+            },
+            {
+                "pcontent": "大火烧开后转中火，把蔬菜丁煮稍软，汤汁少一部分的时候下入一盒咖喱块。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102236_37940.jpg"
+            },
+            {
+                "pcontent": "转中火，继续炖煮，并用铲子不断搅拌（以免糊锅），直到汤汁浓稠食材变软即可。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102237_93827.jpg"
+            },
+            {
+                "pcontent": "腌制好的猪排在蛋液里沾一遍。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102237_64502.jpg"
+            },
+            {
+                "pcontent": "盘子里倒入炸猪排料粉，把沾好蛋液的猪排均匀的裹上炸猪排配料。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102237_37170.jpg"
+            },
+            {
+                "pcontent": "锅里倒入适量的油，烧至6成热，下入裹好料粉的猪排。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102240_65825.jpg"
+            },
+            {
+                "pcontent": "大约炸4分钟左右，猪排熟透，捞出控油。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102240_23188.jpg"
+            },
+            {
+                "pcontent": "猪排切成1.5cm宽的段，盘子里摆上米饭，猪排，浇上浓香的咖喱，香喷喷的猪排饭就好了。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160802/102240_35100.jpg"
+            }
+        ]
+    },
+    {
+        "id": 24878,
+        "classid": 571,
+        "name": "培根披萨",
+        "peoplenum": "3-4人",
+        "preparetime": "2小时以上",
+        "cookingtime": "10-20分钟",
+        "content": "很喜欢在休息天的时候做披萨当早餐，简单又方便，而且营养也均衡，因为你可以放任意你喜欢的肉类和蔬菜。我一般都是喜欢晚上睡觉前揉好面团，然后包上保鲜膜，放冰箱冷藏发酵，第二天早上提前30分钟取出回温一下就可以开始烤啦！",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/175344_26324.jpg",
+        "tag": "西餐,二人世界,烤,烤箱",
+        "material": [
+            {
+                "mname": "红椒",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "蛋液",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "黑椒碎",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "番茄酱",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "青椒",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "洋葱",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "培根",
+                "type": 0,
+                "amount": "8片"
+            },
+            {
+                "mname": "马苏里拉芝士",
+                "type": 1,
+                "amount": "100g"
+            },
+            {
+                "mname": "白糖",
+                "type": 1,
+                "amount": "10g"
+            },
+            {
+                "mname": "盐",
+                "type": 1,
+                "amount": "1/2小勺"
+            },
+            {
+                "mname": "油",
+                "type": 1,
+                "amount": "10ml"
+            },
+            {
+                "mname": "清水",
+                "type": 1,
+                "amount": "110ml"
+            },
+            {
+                "mname": "酵母",
+                "type": 1,
+                "amount": "2g"
+            },
+            {
+                "mname": "低筋面粉",
+                "type": 1,
+                "amount": "100g"
+            },
+            {
+                "mname": "高筋面粉",
+                "type": 1,
+                "amount": "100g"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": "准备材料，面团后油法揉至光滑，盖上保鲜膜放冰箱冷藏发酵，第二天提前半小时取出回温；大部分洋葱切碎炒至断生，剩一点切成洋葱圈，青红椒切圈，培根3片切碎，5片不用切；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/122318_45215.jpg"
+            },
+            {
+                "pcontent": "回温后的面团，擀薄，我这里做的是10寸的厚底披萨，如果不想做这么大，或者是做薄底的，可以把面团分成两份做两个8寸的。放入披萨盘，用叉子叉出小洞；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/122319_52119.jpg"
+            },
+            {
+                "pcontent": "抹上一层番茄酱，磨上黑椒碎，周边留空一圈；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/122319_74262.jpg"
+            },
+            {
+                "pcontent": "铺上一层洋葱碎和切碎的培根；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/122320_80171.jpg"
+            },
+            {
+                "pcontent": "撒一层马苏里拉芝士；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/122320_73113.jpg"
+            },
+            {
+                "pcontent": "摆上洋葱圈和青红椒圈；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/122320_13439.jpg"
+            },
+            {
+                "pcontent": "把5块培根圈成筒状，放在上面，再撒一层马苏里拉芝士；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/122321_52896.jpg"
+            },
+            {
+                "pcontent": "放入已经预热220度的烤箱中层，上下火，烤10分钟，取出，在周边刷一层蛋液，继续放回去，烤5~8分钟即可。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/122322_40043.jpg"
+            },
+            {
+                "pcontent": "烤好的披萨切开，趁热享用。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/122322_33140.jpg"
+            }
+        ]
+    },
+    {
+        "id": 24921,
+        "classid": 571,
+        "name": "煎梨汁猪排",
+        "peoplenum": "3-4人",
+        "preparetime": "30分钟-1小时",
+        "cookingtime": "10分钟内",
+        "content": "这是应景之作，适合光棍节脱光的弟弟妹妹们，在约会时点上一盏烛光，享用一客猪排或牛排~<br>难得天放晴了，心情也随之亮堂起来，主妇们心情好的表达就是美食。用梨汁先腌制猪排，充分入味后再煎，肉香混合果香，与平常习惯的黑胡椒等香料腌制肉排，又是另一番不同的滋味，赢得了女儿的夸奖和赞美。",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/175350_96250.jpg",
+        "tag": "二人世界,煎,聚会,西餐",
+        "material": [
+            {
+                "mname": "橄榄油",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "生抽",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "红烧汁",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "梨子",
+                "type": 0,
+                "amount": "1个"
+            },
+            {
+                "mname": "低筋面粉",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "面包糠",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "鸡蛋",
+                "type": 0,
+                "amount": "2个"
+            },
+            {
+                "mname": "猪里脊肉",
+                "type": 1,
+                "amount": "260g"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": "将里脊肉切成1.5cm厚的片，用松肉锤敲打两面",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111219_98869.jpg"
+            },
+            {
+                "pcontent": "梨子去皮放入料理机",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111219_14228.jpg"
+            },
+            {
+                "pcontent": "榨成果泥",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111219_55726.jpg"
+            },
+            {
+                "pcontent": "将梨汁放入腌肉的碗内",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111220_14776.jpg"
+            },
+            {
+                "pcontent": "放生抽",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111220_35445.jpg"
+            },
+            {
+                "pcontent": "放红烧汁",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111220_23064.jpg"
+            },
+            {
+                "pcontent": "加少许橄榄油，使肉排均匀沾满调料汁，放入冰箱冷藏腌制30分钟",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111220_64119.jpg"
+            },
+            {
+                "pcontent": "鸡蛋打散",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111221_45375.jpg"
+            },
+            {
+                "pcontent": "准备面粉及面包糠",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111221_82317.jpg"
+            },
+            {
+                "pcontent": "腌好的肉排先沾满面粉",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111221_44505.jpg"
+            },
+            {
+                "pcontent": "两面沾上蛋液",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111221_22097.jpg"
+            },
+            {
+                "pcontent": "最后裹面包糠",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111221_34654.jpg"
+            },
+            {
+                "pcontent": "放入热油锅，小火煎",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111221_85788.jpg"
+            },
+            {
+                "pcontent": "两面煎黄，依自己的习惯决定煎熟的程度即可出锅。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/111222_80908.jpg"
+            }
+        ]
+    },
+    {
+        "id": 25170,
+        "classid": 571,
+        "name": "柠香煎三文鱼",
+        "peoplenum": "1-2人",
+        "preparetime": "10-20分钟",
+        "cookingtime": "10-20分钟",
+        "content": "三文鱼（salmon）也叫撒蒙鱼或萨门鱼，学名鲑鱼，主要分布在太平洋北部及欧洲、亚洲、美洲的北部地区。鲑鱼体侧扁，背部隆起，齿尖锐，鳞片细小，银灰色，产卵期有橙色条纹。鲑鱼肉质紧密鲜美，油脂丰富，肉色为粉红色并具有弹性。鲑鱼以挪威产量最大，名气也很大。但质量最好的三文鱼产自美国的阿拉斯加海域和英国的英格兰海域。三文鱼是西餐较常用的鱼类原料之一。",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/175502_83172.jpg",
+        "tag": "海鲜,二人世界,煎,白领,西餐",
+        "material": [
+            {
+                "mname": "橄榄油",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "盐",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "牛至叶",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "黑胡椒碎",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "法式龙蒿叶芥末酱",
+                "type": 0,
+                "amount": "1勺"
+            },
+            {
+                "mname": "柠檬",
+                "type": 0,
+                "amount": "半个"
+            },
+            {
+                "mname": "意大利芹菜碎",
+                "type": 0,
+                "amount": "少许"
+            },
+            {
+                "mname": "三文鱼",
+                "type": 1,
+                "amount": "500g"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": "准备材料。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112819_22425.jpg"
+            },
+            {
+                "pcontent": "三文鱼去鳞洗净",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112819_18167.jpg"
+            },
+            {
+                "pcontent": "两面均匀的抹上盐腌制10分钟。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112819_19935.jpg"
+            },
+            {
+                "pcontent": "腌好后，用厨房纸吸干表面的水份。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112822_86689.jpg"
+            },
+            {
+                "pcontent": "不粘锅倒上橄榄油，7成热的时候，放入三文鱼，鱼皮朝下。<br>\n",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112823_77658.jpg"
+            },
+            {
+                "pcontent": "调中火，鱼皮煎到焦黄色的时候翻面。（鱼肉很嫩，要轻轻翻面，我的不小心翻碎了。）",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112823_58062.jpg"
+            },
+            {
+                "pcontent": "煎至鱼肉变的焦黄，关火。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112823_45479.jpg"
+            },
+            {
+                "pcontent": "出锅后，撒上黑胡椒碎和牛至叶。（也可以出锅前撒上。）<br>\n<br>\n挤上柠檬汁，撒上意大利芹菜碎。可以搭配土豆泥、法式芥末酱、白葡萄酒一起食用。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112823_96748.jpg"
+            }
+        ]
+    },
+    {
+        "id": 25176,
+        "classid": 571,
+        "name": "南瓜酱焗娃娃菜",
+        "peoplenum": "5-6人",
+        "preparetime": "10分钟内",
+        "cookingtime": "10-20分钟",
+        "content": "常跟侄女说的一句话是： “很多东西你不一定要做，但一定必须会做。”也就是只要有手艺，什么都不怕。像侄女这个年龄（大学生），说大不大，但也不小， 都是在父母的呵护下长大的独生子女，平时什么都不用干，独立生活能力比较差， 住校后完全慌了马脚，才意识到自己连什么东西都不会，就是想给自己做点好吃的都很难，怎么能到口里呢？于是周末回来，总是会缠着我要我教她做点什么。<br> <br>       这是我向她推荐的一道很简单的西式菜-----南瓜酱焗娃娃菜， 即使是零厨艺，  但是做出来却不会让人失望，经典的芝士口味，用来宴客拿出来也很有面子， 是道懒人烤箱菜。  不需要多长时间，香味就会飘满着厨房， 芝士香浓润滑，色泽金黄，奶香浓郁，  南瓜的香甜， 娃娃菜的清香爽脆， 相互融合， 每一口都有新的感受。<br> <br>      做一道菜， 从食材的挑选和烹饪， 都包含着自己的劳动和心意。 当浓浓的奶香味在嘴里挥之不去，心情顿时变的和窗外的阳光一样明媚。",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/175505_81346.jpg",
+        "tag": "烤箱,西餐,奶香,烤,二人世界",
+        "material": [
+            {
+                "mname": "黄油",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "盐",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "黑胡椒粉",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "面粉",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "娃娃菜",
+                "type": 1,
+                "amount": "1颗"
+            },
+            {
+                "mname": "南瓜",
+                "type": 1,
+                "amount": "300g"
+            },
+            {
+                "mname": "马苏里拉芝士",
+                "type": 1,
+                "amount": "100g"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": " 准备好原材料； ",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112837_55212.jpg"
+            },
+            {
+                "pcontent": " 南瓜切成小块， 盖上盖， 放入微波炉中高火转上六分钟； ",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112837_37973.jpg"
+            },
+            {
+                "pcontent": "  烧锅开水， 放入适量的油和盐， 下入切成小块的娃娃菜焯水； ",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112838_98381.jpg"
+            },
+            {
+                "pcontent": "  将焯过水的娃娃菜控干水分后整齐的摆放在盘中；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112838_96421.jpg"
+            },
+            {
+                "pcontent": "微波好的南瓜搅打成泥；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112838_86676.jpg"
+            },
+            {
+                "pcontent": " 烧热锅， 放入黄油；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112838_99923.jpg"
+            },
+            {
+                "pcontent": " 黄油融化后下入南瓜泥翻炒； ",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112840_28154.jpg"
+            },
+            {
+                "pcontent": " 再加入少量的盐和黑胡椒粉调味，同时加入少量的面粉混合均匀；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112840_40821.jpg"
+            },
+            {
+                "pcontent": "将制作好的南瓜酱平铺在娃娃菜的表面； 1",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112840_32493.jpg"
+            },
+            {
+                "pcontent": " 再在上面铺满一层马苏里拉芝士；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112840_60897.jpg"
+            },
+            {
+                "pcontent": " 放入预热好200度的烤箱中，烤制20分钟； ",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112841_14037.jpg"
+            },
+            {
+                "pcontent": " 当表面烤制金黄后从烤箱中拿出来；",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112841_10639.jpg"
+            },
+            {
+                "pcontent": "美味的“南瓜酱焗娃娃菜”就完成了。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/112841_34546.jpg"
+            }
+        ]
+    },
+    {
+        "id": 25199,
+        "classid": 571,
+        "name": "柠香鱼排",
+        "peoplenum": "1-2人",
+        "preparetime": "10分钟内",
+        "cookingtime": "10-20分钟",
+        "content": "龙利鱼肉质细嫩营养丰富、属于味道鲜美的优质海洋鱼类。龙利鱼的脂肪中含有不饱和脂肪酸，具有抗动脉粥样硬化的功效，对防治心脑血管疾病和增强记忆、保护视力颇有益处。这道先把洋葱爆香后垫底，然后用小火慢慢煎熟之后加入黑胡椒粒和辣椒面，最后滴入柠檬提香，鱼肉鲜嫩味美。",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/175512_28940.jpg",
+        "tag": "午餐,煎,增强免疫力,二人世界,白领,西餐",
+        "material": [
+            {
+                "mname": "油",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "盐",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "黑胡椒",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "洋葱",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "辣椒面",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "柠檬",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "白酒",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "生姜片",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "龙利鱼",
+                "type": 1,
+                "amount": "280g"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": "龙利鱼解冻",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113000_16667.jpg"
+            },
+            {
+                "pcontent": "洋葱洗净切片，准备柠檬片，生姜片和黑胡椒",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113000_36246.jpg"
+            },
+            {
+                "pcontent": "解冻的龙利鱼洗净吸干水分切成鱼排，放入盆中加入盐，白酒，柠檬片和生姜片拌匀腌制2小时",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113000_34916.jpg"
+            },
+            {
+                "pcontent": "热锅加入少许油下入洋葱煸炒出香味，磨入黑胡椒煸炒均匀后装入盆中",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113001_37100.jpg"
+            },
+            {
+                "pcontent": "用不粘锅倒入橄榄油",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113001_53218.jpg"
+            },
+            {
+                "pcontent": "温油逐片下入鱼排用小火慢慢煎熟",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113001_73904.jpg"
+            },
+            {
+                "pcontent": "煎熟之后磨上黑胡椒",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113001_79257.jpg"
+            },
+            {
+                "pcontent": "喜欢香辣的加入辣椒面",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113002_70100.jpg"
+            },
+            {
+                "pcontent": "鱼排装入洋葱上面滴入适量柠檬汁即可",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113002_37918.jpg"
+            },
+            {
+                "pcontent": "上桌，趁热吃很棒",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113002_77104.jpg"
+            }
+        ]
+    },
+    {
+        "id": 25273,
+        "classid": 571,
+        "name": "法式烤羊排",
+        "peoplenum": "1-2人",
+        "preparetime": "10分钟内",
+        "cookingtime": "1-2小时",
+        "content": "正宗法式大餐，价格不菲，这不一直合计自己在家发挥下。做法式大餐，原料的质量一定要好好把关。<br>   好不容易买到正宗法式羊排，选自新西兰羔羊排，羔羊年龄一般在12个月以下，无切齿，肉无膻味。正宗的法式羊排，要自制烧汁，对于上班一足来说，可能没有那么多时间。<br>   这不，根据自己做西点的心得，改良发挥了下，搭配迷迭香，来道烤法式羊排。结果出来的效果，超级不错！迷迭香搭配羊排，绝对是绝配，如果有条件，采用鲜迷迭香更好，我这里采用的是干迷迭香。由于先用锡纸包裹，可以让肉中的水分不容易流失，保证了肉质鲜嫩。最后用高火高温烘焙，保证表面的香脆。",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/175545_82206.jpg",
+        "tag": "烤,西餐,二人世界,烤箱",
+        "material": [
+            {
+                "mname": "橄榄油",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "盐",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "洋葱",
+                "type": 0,
+                "amount": "100g"
+            },
+            {
+                "mname": "迷迭香",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "黑胡椒粉",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "麦芽糖",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "孜然",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "羊排",
+                "type": 1,
+                "amount": "250g"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": "采购品质优良的羊排，肥瘦比例适中，不是菜场那种羊排哦，建议去一些进口超市采购。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113459_19992.jpg"
+            },
+            {
+                "pcontent": "羊排洗净，吸干水分",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113459_98729.jpg"
+            },
+            {
+                "pcontent": "在羊排两面涂抹上盐，适当给羊排进行人工按摩，让盐渗入。",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113459_52456.jpg"
+            },
+            {
+                "pcontent": "然后在羊排两面涂抹上黑胡椒粉，用指头给羊排进行按摩",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113459_16249.jpg"
+            },
+            {
+                "pcontent": "然后在羊排两面涂抹上迷迭香，用指头给羊排进行按摩",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113500_42699.jpg"
+            },
+            {
+                "pcontent": "然后铺上姜片，放置一夜",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113500_84559.jpg"
+            },
+            {
+                "pcontent": "采用橄榄油煎羊排，也可以采用黄油，采用黄油，味道更香。考虑健康因素，我采用的是橄榄油",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113500_64384.jpg"
+            },
+            {
+                "pcontent": "锅内加入橄榄油，将羊排放入，煎到2成熟，表面变色即可，不用煎的时间太长",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113500_80845.jpg"
+            },
+            {
+                "pcontent": "然后翻面继续煎",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113500_97494.jpg"
+            },
+            {
+                "pcontent": "然后用剩下的油翻炒洋葱，洋葱变软煸出香味即可",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113501_79272.jpg"
+            },
+            {
+                "pcontent": "将煸好的洋葱铺到锡纸上",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113501_94770.jpg"
+            },
+            {
+                "pcontent": "在洋葱上面铺上羊排",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113501_92848.jpg"
+            },
+            {
+                "pcontent": "然后在羊排表面继续铺上炒好的洋葱",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113501_27496.jpg"
+            },
+            {
+                "pcontent": "将锡纸包严实",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113501_15480.jpg"
+            },
+            {
+                "pcontent": "烤箱200度预热，放入羊排，烤30分钟",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113501_15270.jpg"
+            },
+            {
+                "pcontent": "打开锡纸，取出羊排，洋葱和渗出的汤，可以用来泡饭，很赞",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113502_88962.jpg"
+            },
+            {
+                "pcontent": "取一勺麦芽糖，溶解在水中",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113502_25945.jpg"
+            },
+            {
+                "pcontent": "将羊排两面刷上麦芽糖水，放上烤网，刷麦芽糖的目的是为了让羊排表面色泽更加诱人，然后继续撒上孜然和迷迭香",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113502_14081.jpg"
+            },
+            {
+                "pcontent": "烤箱210度预热，烤6分钟，然后取出，翻面，撒上孜然和迷迭香，继续烤6分钟",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113502_80025.jpg"
+            },
+            {
+                "pcontent": "香嫩可口的法式羊排诞生了，可以按照个人爱好摆盘",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113503_88939.jpg"
+            }
+        ]
+    },
+    {
+        "id": 25308,
+        "classid": 571,
+        "name": "芒果鲷鱼",
+        "peoplenum": "1-2人",
+        "preparetime": "10-20分钟",
+        "cookingtime": "10-20分钟",
+        "content": "鱼类蛋白质丰富，富含维生素及镁、钙、磷等矿物质，易于消化吸收，可提供充足的营养。今天为大家推荐一道煎制的鱼，口味清新淡雅，特别适合现在这个季节。",
+        "pic": "http://api.jisuapi.com/recipe/upload/20160719/175559_88663.jpg",
+        "tag": "午餐,二人世界,宴请,清淡,煎,约会,西餐",
+        "material": [
+            {
+                "mname": "青柠檬",
+                "type": 0,
+                "amount": "1个"
+            },
+            {
+                "mname": "黑胡椒粒",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "橄榄油",
+                "type": 0,
+                "amount": "15ml"
+            },
+            {
+                "mname": "蜂蜜",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "精盐",
+                "type": 0,
+                "amount": "适量"
+            },
+            {
+                "mname": "料酒",
+                "type": 0,
+                "amount": "少许"
+            },
+            {
+                "mname": "鲷鱼",
+                "type": 1,
+                "amount": "300g"
+            },
+            {
+                "mname": "芒果",
+                "type": 1,
+                "amount": "1个"
+            }
+        ],
+        "process": [
+            {
+                "pcontent": "1、鲷鱼室温解冻后清洗干净切成大块，加入盐、黑胡椒、料酒，稍拍打入味",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113738_76458.jpg"
+            },
+            {
+                "pcontent": "柠檬对半切开，取柠檬汁挤到鱼身上，然后腌制10几分钟",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113739_99972.jpg"
+            },
+            {
+                "pcontent": "煎炒锅烧热后倒入适量的橄榄油，油温热后把腌制好的鲷鱼放进去大火煎至鱼表面金黄熟透",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113739_46371.jpg"
+            },
+            {
+                "pcontent": "芒果切出果肉放进料理机加柠檬汁打成细滑浓稠的果汁，倒出后加蜂蜜调味",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113739_13916.jpg"
+            },
+            {
+                "pcontent": "打好的芒果汁摆盘，搭配鲷鱼一起食用",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113742_58152.jpg"
+            },
+            {
+                "pcontent": "完成",
+                "pic": "http://api.jisuapi.com/recipe/upload/20160803/113742_46121.jpg"
+            }
+        ]
+    }
+]
