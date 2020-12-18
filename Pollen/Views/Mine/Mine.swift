@@ -31,6 +31,13 @@ struct Mine: View {
                     }
                     
                     ZStack {
+                        MineRow(icon: "mine_privacy_policy", title: "隐私政策")
+                        NavigationLink(destination: PrivacyPolicyView()) {
+                            EmptyView()
+                        }
+                    }
+                    
+                    ZStack {
                         MineRow(icon: "mine_setting", title: "设置")
                         NavigationLink(destination: SettingView()) {
                             EmptyView()
