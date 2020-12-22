@@ -39,6 +39,11 @@ struct SignUpCommand: AppCommand {
                     store.appState.account.user = response.user
                 } catch {
                     let error = try! decode.decode(ResponseError.self, from: receiveData)
+                    guard error.reason != "Something went wrong." else {
+                        store.dispatch(.signUp(username: username, password: password))
+                        return
+                    }
+                    
                     store.appState.account.loginFailure = true
                     store.appState.account.loginErrorMessage = error.reason
                 }
@@ -107,6 +112,10 @@ struct LoginCommand: AppCommand {
                     store.appState.account.user = response.user
                 } catch {
                     let error = try! decode.decode(ResponseError.self, from: receiveData)
+                    guard error.reason != "Something went wrong." else {
+                        store.dispatch(.login(username: username, password: password))
+                        return
+                    }
                     store.appState.account.loginFailure = true
                     store.appState.account.loginErrorMessage = error.reason
                 }
@@ -192,6 +201,10 @@ struct CheckLoginAccessTokenCommand: AppCommand {
                     store.appState.account.user = user
                 } catch {
                     let error = try! decode.decode(ResponseError.self, from: receiveData)
+                    guard error.reason != "Something went wrong." else {
+                        store.dispatch(.checkLoginAccessToken(token: token))
+                        return
+                    }
                     store.appState.account.loginFailure = true
                     store.appState.account.loginErrorMessage = error.reason
                 }
