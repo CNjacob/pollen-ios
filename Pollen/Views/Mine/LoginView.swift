@@ -31,9 +31,9 @@ struct LoginView: View {
                     .padding(.bottom, 40)
                 
                 
-                InputItem(iconImageName: "icon_user", title: "用户名", input: loginBinding.checker.username, type: .text)
+                InputItem(iconImageName: "icon_user", title: "用户名", input: loginBinding.checker.loginUsername, type: .text)
                 
-                InputItem(iconImageName: "icon_password", title: "密码", input: loginBinding.checker.password, type: .secure)
+                InputItem(iconImageName: "icon_password", title: "密码", input: loginBinding.checker.loginPassword, type: .secure)
                 
                 /*
                 VStack(alignment: .trailing) {
@@ -59,8 +59,8 @@ struct LoginView: View {
                     ) {
                         store.dispatch(
                             .login(
-                                username: login.checker.username,
-                                password: login.checker.password
+                                username: login.checker.loginUsername,
+                                password: login.checker.loginPassword
                             )
                         )
                     }

@@ -11,11 +11,42 @@ import Combine
 extension AppState {
     struct AccountState {
         class AccountChecker {
+            @Published var loginUsername = ""
+            @Published var loginPassword = ""
+            
             @Published var username = ""
             @Published var password = ""
             @Published var verifyPassword = ""
             
             private var cancellableSet: Set<AnyCancellable> = []
+            
+            private var isLoginUsernameValidPublisher: AnyPublisher<Bool, Never> {
+                $loginUsername
+                    .debounce(for: 0.8, scheduler: RunLoop.main)
+                    .removeDuplicates()
+                    .map { input in
+                        return input.count >= 3
+                    }
+                    .eraseToAnyPublisher()
+            }
+            
+            private var isLoginPasswordEmptyPublisher: AnyPublisher<Bool, Never> {
+                $loginPassword
+                    .debounce(for: 0.8, scheduler: RunLoop.main)
+                    .removeDuplicates()
+                    .map { password in
+                        return password == ""
+                    }
+                    .eraseToAnyPublisher()
+            }
+            
+            var loginValidPublisher: AnyPublisher<Bool, Never> {
+                Publishers.CombineLatest(isLoginUsernameValidPublisher, isLoginPasswordEmptyPublisher)
+                    .map { userNameIsValid, passwordIsEmpty in
+                        return userNameIsValid && !passwordIsEmpty
+                    }
+                    .eraseToAnyPublisher()
+            }
             
             private var isUsernameValidPublisher: AnyPublisher<Bool, Never> {
                 $username
@@ -93,14 +124,6 @@ extension AppState {
                         }
                 }
                 .eraseToAnyPublisher()
-            }
-            
-            var loginValidPublisher: AnyPublisher<Bool, Never> {
-                Publishers.CombineLatest(isUsernameValidPublisher, isPasswordEmptyPublisher)
-                    .map { userNameIsValid, passwordIsEmpty in
-                        return userNameIsValid && !passwordIsEmpty
-                    }
-                    .eraseToAnyPublisher()
             }
             
             var signUpValidPublisher: AnyPublisher<String, Never> {
