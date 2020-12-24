@@ -34,4 +34,7 @@ enum AppAction {
     case cancelFavoritedRecipe(token: String, recipe: Recipe)
     
     case homePageRefresh
+    
+    case showLoginView
+    case dismissLoginView
 }

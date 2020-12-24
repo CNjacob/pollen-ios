@@ -110,6 +110,7 @@ struct LoginCommand: AppCommand {
                     store.appState.account.loggedIn = true
                     store.appState.account.accessToken = response.token
                     store.appState.account.user = response.user
+                    store.dispatch(.loadFavoritedRecipe(token: response.token))
                 } catch {
                     let error = try! decode.decode(ResponseError.self, from: receiveData)
                     guard error.reason != "Something went wrong." else {
@@ -199,6 +200,7 @@ struct CheckLoginAccessTokenCommand: AppCommand {
                     let user = try decode.decode(User.self, from: receiveData)
                     store.appState.account.loggedIn = true
                     store.appState.account.user = user
+                    store.dispatch(.loadFavoritedRecipe(token: token))
                 } catch {
                     let error = try! decode.decode(ResponseError.self, from: receiveData)
                     guard error.reason != "Something went wrong." else {

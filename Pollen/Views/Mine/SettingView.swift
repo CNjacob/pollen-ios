@@ -22,12 +22,14 @@ struct SettingView: View {
                 }
             }
             
-            ZStack {
-                MineRow(icon: "mine_logout", title: "退出登录")
-                Button(action: {
-                    self.logoutConfirm.toggle()
-                }) {
-                    EmptyView()
+            if store.appState.account.loggedIn {
+                ZStack {
+                    MineRow(icon: "mine_logout", title: "退出登录")
+                    Button(action: {
+                        self.logoutConfirm.toggle()
+                    }) {
+                        EmptyView()
+                    }
                 }
             }
         }

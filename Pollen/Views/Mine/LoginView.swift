@@ -18,6 +18,16 @@ struct LoginView: View {
         Alert(title: Text("温馨提示"), message: Text(login.loginErrorMessage), dismissButton: .default(Text("好的")))
     }
     
+    var closeButton: some View {
+        Button(action: {
+            store.dispatch(.dismissLoginView)
+        }) {
+            Image("close_button")
+                .accessibility(label: Text("关闭"))
+                .padding(5)
+        }
+    }
+    
     var body: some View {
         
         NavigationView {
@@ -88,6 +98,7 @@ struct LoginView: View {
                 }
             })
             .alert(isPresented: loginBinding.loginFailure, content: { self.alert })
+            .navigationBarItems(trailing: closeButton)
         }
     }
 }

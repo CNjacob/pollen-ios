@@ -18,24 +18,12 @@ struct PollenApp: App {
     }
 }
 
-struct StartView: View {
-    @EnvironmentObject var store: Store
-    
-    var body: some View {
-        if store.appState.account.loggedIn {
-            MainTab()
-        } else {
-            LoginView()
-        }
-    }
-}
-
 struct StartOnboardView: View {
     @EnvironmentObject var store: Store
     
     var body: some View {
         if store.appState.onboarding.onboardComplete {
-            StartView()
+            MainTab()
                 .onAppear {
                     let token = store.appState.account.accessToken
                     if !token.isBlank {

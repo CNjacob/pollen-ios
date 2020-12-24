@@ -99,7 +99,7 @@ extension AppState {
 // MARK: MineState
 extension AppState {
     struct MineState {
-        
+        var showLoginView = false
         
     }
 }

@@ -40,9 +40,16 @@ struct RecipeDetailView: View {
     let recipe: Recipe
     
     @State var showingProcess = false
+    @State var showingAlert = false
+    
     var processButton: some View {
         HStack(spacing: 10) {
             Button(action: {
+                guard store.appState.account.loggedIn else {
+                    self.showingAlert.toggle()
+                    return
+                }
+                
                 let token = store.appState.account.accessToken
                 if isFavorited() {
                     store.dispatch(.cancelFavoritedRecipe(token: token, recipe: self.recipe))
@@ -117,6 +124,21 @@ struct RecipeDetailView: View {
         .navigationBarItems(trailing: processButton)
         .sheet(isPresented: $showingProcess) {
             RecipeProcess(recipeProcess: recipe.process)
+        }
+        .alert(isPresented: $showingAlert) {
+            Alert(
+                title: Text("温馨提示"),
+                message: Text("收藏美食需要先登录您的账号，请登录后再收藏哦～～～"),
+                primaryButton: .default(
+                    Text("登录"),
+                    action: {
+                        store.dispatch(.showLoginView)
+                    }
+                ),
+                secondaryButton: .cancel(
+                    Text("取消")
+                )
+            )
         }
     }
 }

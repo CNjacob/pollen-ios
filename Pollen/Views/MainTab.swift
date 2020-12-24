@@ -29,13 +29,14 @@ struct MainTab: View {
                 TabItem(type: .mine, selection: store.appState.mainTab.selection)
             }.tag(AppState.MainTabState.Index.mine)
         }
+        .overlay(Group {
+            if store.appState.mine.showLoginView && !store.appState.account.loggedIn {
+                LoginView()
+            } else {
+                EmptyView()
+            }
+        })
         .edgesIgnoringSafeArea(.top)
-        .onAppear(perform: loadUserFavoritedRecipe)
-    }
-    
-    func loadUserFavoritedRecipe() {
-        let token = store.appState.account.accessToken
-        store.dispatch(.loadFavoritedRecipe(token: token))
     }
 }
 

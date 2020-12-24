@@ -9,15 +9,28 @@
 import SwiftUI
 
 struct Mine: View {
+    @EnvironmentObject var store: Store
     
     var body: some View {
         NavigationView {
             Form {
                 Section {
                     ZStack {
-                        MineRow(icon: "mine_favorites", title: "我的收藏")
-                        NavigationLink(destination: FavoritedRecipeView()) {
-                            EmptyView()
+                        if store.appState.account.loggedIn {
+                            MineRow(icon: "mine_favorites", title: "我的收藏")
+                            NavigationLink(destination: FavoritedRecipeView()) {
+                                EmptyView()
+                            }
+                            
+                        } else {
+                            ZStack {
+                                MineRow(icon: "mine_login", title: "登录")
+                                Button(action: {
+                                    store.dispatch(.showLoginView)
+                                }) {
+                                    EmptyView()
+                                }
+                            }
                         }
                     }
                 }

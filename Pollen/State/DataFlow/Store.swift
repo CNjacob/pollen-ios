@@ -107,6 +107,11 @@ class Store: ObservableObject {
             appState.home.isLoadingSeasonRecipe = true
             appCommand = HomePageRefreshCommand()
             
+        case .showLoginView:
+            appState.mine.showLoginView = true
+            
+        case .dismissLoginView:
+            appState.mine.showLoginView = false
         }
             
         
